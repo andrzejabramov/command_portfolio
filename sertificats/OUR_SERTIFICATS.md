@@ -1,4 +1,4 @@
-## Наши документы об обученииЖ
+## Наши документы об обучении:
 
 ![ SQL_DB.jpeg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/%20SQL_DB.jpeg)  
 
