@@ -24,6 +24,6 @@
 
 ![informationSecurity.pdf](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/informationSecurity.pdf)  
 
-![python_analitic.pdf](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/python_analitic.pdf)  
+![python_analitic.pdf](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/python_analitic.jpg)  
 
 ![Slurm_Postdresql.png](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Slurm_Postdresql.png)  
