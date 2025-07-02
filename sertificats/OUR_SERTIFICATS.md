@@ -20,4 +20,19 @@
 
 ![Backend_Python.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Backend_Python-изображения-0.jpg) 
 
-![Backend_Python.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Backend_Python-изображения-1.jpg)
+![Backend_Python.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Backend_Python-изображения-1.jpg)  
+
+![1С Профессионал по платформе](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Профессионал%20по%20платформе.jpg)    
+
+![1С Профессионал по продажам](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Профессионал%20по%20продажам.jpg)    
+
+![1С Специалист по платформе](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Специалист%20по%20платформе.jpg)    
+
+![Партнер 1С](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Партнер%201С.jpg)      
+
+![Удостоверение курс по продажам](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Удостоверение%20курс%20по%20продажам.jpg)    
+
+![Диплом_АртемСкоробогатый](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Диплом_АртемСкоробогатый.png)  
+
+
+
