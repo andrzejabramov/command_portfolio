@@ -8,4 +8,4 @@
 
 ## Наши документы о компетенциях:  
 
-![sertificats](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/OUR_SERTIFICATS.md)  
+[Дипломы и сертификаты](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/OUR_SERTIFICATS.md)  
