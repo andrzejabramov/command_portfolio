@@ -16,6 +16,8 @@
 
 ![python_analitic.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/python_analitic.jpg)  
 
+![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
+
 ![Slurm_Postdresql.png](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Slurm_Postdresql.png)
 
 ![Backend_Python.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Backend_Python-изображения-0.jpg) 
