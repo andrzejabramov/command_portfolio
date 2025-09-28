@@ -77,3 +77,6 @@ https://github.com/andrzejabramov/Unittest
 
 Data Analysis    
 https://github.com/andrzejabramov/odin_colab
+
+Дизайн
+https://github.com/andrzejabramov/design/tree/master
