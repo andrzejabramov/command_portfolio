@@ -1,5 +1,7 @@
 ## Наши документы об обучении:
 
+![main_diplom](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Diplom_Abramov.jpg)
+
 ![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
 
 ![design](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_дизайн_ЮдаевSchool.jpeg)
