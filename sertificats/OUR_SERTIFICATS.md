@@ -1,5 +1,7 @@
 ## Наши документы об обучении:
 
+![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
+
 ![ SQL_DB.jpeg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/%20SQL_DB.jpeg)  
 
 ![AI_sertificat.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/AI_sertificat.jpg)  
@@ -15,8 +17,6 @@
 ![informationSecurity.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/informationSecurity.jpg)  
 
 ![python_analitic.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/python_analitic.jpg)  
-
-![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
 
 ![Slurm_Postdresql.png](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Slurm_Postdresql.png)
 
