@@ -2,6 +2,8 @@
 
 ![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
 
+![design](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_дизайн_ЮдаевSchool.jpeg)
+
 ![ SQL_DB.jpeg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/%20SQL_DB.jpeg)  
 
 ![AI_sertificat.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/AI_sertificat.jpg)  
