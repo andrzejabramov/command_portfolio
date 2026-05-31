@@ -40,8 +40,6 @@
 
 ![Удостоверение курс по продажам](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Удостоверение%20курс%20по%20продажам.jpg)
 
-![Диплом_АртемСкоробогатый](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Диплом_АртемСкоробогатый.png)
-
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
 ![Ed_diplom](./Ed_diplom.jpg)
