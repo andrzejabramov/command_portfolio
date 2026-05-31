@@ -44,4 +44,4 @@
 
 ![Ed_diplom](./Ed_diplom.jpg)
 
-[Вернуться назад](./README.md)
+[Вернуться назад](../README.md)
