@@ -14,11 +14,11 @@
 
 ![app_tester.jpg](./app_tester.jpg)
 
-![certificateFigma.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/certificateFigma.jpg)
+![certificateFigma.jpg](./certificateFigma.jpg)
 
-![certificateUX_UI.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/certificateUX_UI.jpg)
+![certificateUX_UI.jpg](./certificateUX_UI.jpg)
 
-![DataVisualization.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/DataVisualization.jpg)
+![DataVisualization.jpg](./DataVisualization.jpg)
 
 ![informationSecurity.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/informationSecurity.jpg)
 
