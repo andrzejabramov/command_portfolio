@@ -2,7 +2,7 @@
 
 ![main_diplom](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Diplom_Abramov.jpg)
 
-![fullstack_skillfactory](./Андрей_Сертификат_Scillfactory.jpg)
+![fullstack_skillfactory](./Andrzej_Sertificat_Scillfactory.jpg)
 
 ![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
 
