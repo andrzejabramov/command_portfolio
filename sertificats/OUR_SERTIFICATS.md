@@ -1,10 +1,10 @@
 ## Наши документы об обучении:
 
-![main_diplom](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Diplom_Abramov.jpg)
+![main_diplom](./Diplom_Abramov.jpg)
 
 ![fullstack_skillfactory](./Andrzej_Sertificat_Scillfactory.jpg)
 
-![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
+![data_analinic](./Andrzej_DataAnaliticPython.jpg)
 
 ![design](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_дизайн_ЮдаевSchool.jpeg)
 
