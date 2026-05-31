@@ -20,15 +20,15 @@
 
 ![DataVisualization.jpg](./DataVisualization.jpg)
 
-![informationSecurity.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/informationSecurity.jpg)
+![informationSecurity.jpg](./informationSecurity.jpg)
 
-![python_analitic.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/python_analitic.jpg)
+![python_analitic.jpg](./python_analitic.jpg)
 
-![Slurm_Postdresql.png](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Slurm_Postdresql.png)
+![Slurm_Postdresql.png](./Slurm_Postdresql.png)
 
-![Backend_Python.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Backend_Python-изображения-0.jpg)
+![Backend_Python.jpg](./Backend_Python-0.jpg)
 
-![Backend_Python.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Backend_Python-изображения-1.jpg)
+![Backend_Python.jpg](./Backend_Python-1.jpg)
 
 ![1С Профессионал по платформе](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Профессионал%20по%20платформе.jpg)
 
@@ -42,8 +42,8 @@
 
 ![Диплом_АртемСкоробогатый](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Диплом_АртемСкоробогатый.png)
 
-![Удостоверение_АртемСкоробогатый](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Удостоверение_Артем.jpeg)
+![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
-![Ed_diplom](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Ed_diplom.jpg)
+![Ed_diplom](./Ed_diplom.jpg)
 
-[Вернуться назад](https://github.com/andrzejabramov/command_portfolio/blob/main/README.md)
+[Вернуться назад](./README.md)
