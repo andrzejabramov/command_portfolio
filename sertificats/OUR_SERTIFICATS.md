@@ -2,6 +2,8 @@
 
 ![main_diplom](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Diplom_Abramov.jpg)
 
+![fullstack_skillfactory](sertificats/Андрей_Сертификат_Slillfactory_page.jpg)
+
 ![data_analinic](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_DataAnaliticPython_page-0001.jpg)
 
 ![design](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_дизайн_ЮдаевSchool.jpeg)
