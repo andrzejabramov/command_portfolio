@@ -35,8 +35,7 @@ https://github.com/andrzejabramov/sqlite/tree/master/screens_bot
 https://github.com/andrzejabramov/aiogram  
 https://github.com/andrzejabramov/Task_telegrambot
 
-Учебный проект бронирование отелей на FastApi
-Это на GitHub  
+Учебный проект бронирование отелей на FastApi  
 https://github.com/andrzejabramov/backend-course  
 Это он же попытка переделать на модели, вызывающие хранимые функции и процедуры postgresql
 
@@ -67,7 +66,7 @@ https://github.com/andrzejabramov/img_gallery
 https://github.com/andrzejabramov/skill-canban
 https://github.com/andrzejabramov/silant
 
-Создание симлинка и кастомных команд (bash-скрипты + python) для управления сервером 1С на Linux
+Создание симлинка и кастомных команд (bash-скрипты + python) для управления сервером 1С на Linux  
 https://github.com/andrzejabramov/admin1C
 https://github.com/andrzejabramov/integration_1c_unf
 https://github.com/andrzejabramov/kbm_1c
@@ -81,7 +80,7 @@ https://gitlab.com/andrzejvod1/cicd
 Нотификации из Postgres в публикатор (без реализации очередей)  
 https://gitlab.com/andrzejvod1/notify2
 
-Пробы в AI
+Пробы в AI  
 https://github.com/andrzejabramov/AI_avatar
 https://github.com/andrzejabramov/ai-agent
 https://github.com/andrzejabramov/rag-qwen-agent
@@ -96,7 +95,7 @@ https://github.com/andrzejabramov/Unittest
 Data Analysis  
 https://github.com/andrzejabramov/odin_colab
 
-Дизайн
+Дизайн  
 https://github.com/andrzejabramov/design/tree/master
 
 Наша команда:  
