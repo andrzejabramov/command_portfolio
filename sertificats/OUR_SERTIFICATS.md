@@ -6,13 +6,13 @@
 
 ![data_analinic](./Andrzej_DataAnaliticPython.jpg)
 
-![design](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Андрей_дизайн_ЮдаевSchool.jpeg)
+![design](./Andrzej_disign_UdaevSchool.jpeg)
 
-![ SQL_DB.jpeg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/%20SQL_DB.jpeg)
+![ SQL_DB.jpeg](./SQL_DB.jpeg)
 
-![AI_sertificat.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/AI_sertificat.jpg)
+![AI_sertificat.jpg](./AI_sertificat.jpg)
 
-![app_tester.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/app_tester.jpg)
+![app_tester.jpg](./app_tester.jpg)
 
 ![certificateFigma.jpg](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/certificateFigma.jpg)
 
