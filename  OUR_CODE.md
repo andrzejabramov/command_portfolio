@@ -85,6 +85,8 @@ https://github.com/andrzejabramov/AI_avatar
 https://github.com/andrzejabramov/ai-agent
 https://github.com/andrzejabramov/rag-qwen-agent
 https://github.com/andrzejabramov/Perceptron
+https://github.com/andrzejabramov/ai_flat_price
+https://github.com/andrzejabramov/ai_agent_bookshop
 
 Наброски техзадания  
 https://github.com/andrzejabramov/top-up
