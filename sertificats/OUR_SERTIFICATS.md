@@ -30,15 +30,15 @@
 
 ![Backend_Python.jpg](./Backend_Python-1.jpg)
 
-![1С Профессионал по платформе](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Профессионал%20по%20платформе.jpg)
+![1С Профессионал по платформе](./platform_professional_1c.jpg)
 
-![1С Профессионал по продажам](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Профессионал%20по%20продажам.jpg)
+![1С Профессионал по продажам](./seller_proffesional_1c.jpg)
 
-![1С Специалист по платформе](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/1С%20Специалист%20по%20платформе.jpg)
+![1С Специалист по платформе](./platform_specialist_1c.jpg)
 
-![Партнер 1С](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Партнер%201С.jpg)
+![Партнер 1С](./partner_1c.jpg)
 
-![Удостоверение курс по продажам](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/Удостоверение%20курс%20по%20продажам.jpg)
+![Удостоверение курс по продажам](./document_seller_cource.jpg)
 
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 

@@ -1,11 +1,15 @@
 Общая Страница:  
 https://github.com/andrzejabramov?tab=repositories  
 
+Системный анализ:   
+https://github.com/andrzejabramov/prokachu-requirements     
+
 Рабочий проект трансфер Абхазия:  
 https://github.com/andrzejabramov/transfer    
 
 Рабочий платежный сервис такси и курьеры:  
 https://github.com/andrzejabramov/transfer/tree/master/docker/atotx-pay-main/top-up     
+https://github.com/andrzejabramov/pay_service     
 
 AuthX_Fastapi  
 https://github.com/andrzejabramov/AuthX/blob/master/main.py      
@@ -86,7 +90,9 @@ https://github.com/andrzejabramov/ai-agent
 https://github.com/andrzejabramov/rag-qwen-agent     
 https://github.com/andrzejabramov/Perceptron   
 https://github.com/andrzejabramov/ai_flat_price    
-https://github.com/andrzejabramov/ai_agent_bookshop    
+https://github.com/andrzejabramov/ai_agent_bookshop  
+https://github.com/andrzejabramov/ai-taxi   
+https://github.com/andrzejabramov/ai-kbm    
 
 Наброски техзадания  
 https://github.com/andrzejabramov/top-up    
