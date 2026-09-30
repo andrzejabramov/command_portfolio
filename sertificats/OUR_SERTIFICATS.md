@@ -42,7 +42,7 @@
 
 ![Сертификат Нетология GigaChat](./GigaChat.jpg)
 
-![Сертификат Нетология ИИ](./sertificat_AI.jpg)
+![Сертификат Нетология ИИ](./sertificat_AI.png)
 
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
