@@ -40,6 +40,10 @@
 
 ![Удостоверение курс по продажам](./document_seller_cource.jpg)
 
+![Сертификат Нетология GigaChat](./GigaChat.jpg)
+
+![Сертификат Нетология ИИ](./sertificat_AI.jpg)
+
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
 ![Ed_diplom](./Ed_diplom.jpg)
