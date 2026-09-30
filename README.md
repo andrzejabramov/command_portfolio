@@ -4,12 +4,13 @@
 2. Самойлов Эдуард
 3. Скоробогатый Артем
 4. Пак Елена
-5. Абрамов Андрей
+5. Абрамова Оксана
+6. Абрамов Андрей
 
-## Портфолио:  
+## Портфолио:
 
-[our_code](https://github.com/andrzejabramov/command_portfolio/blob/main/%20OUR_CODE.md)     
+[our_code](https://github.com/andrzejabramov/command_portfolio/blob/main/%20OUR_CODE.md)
 
-## Наши документы о компетенциях:  
+## Наши документы о компетенциях:
 
-[Дипломы и сертификаты](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/OUR_SERTIFICATS.md)  
+[Дипломы и сертификаты](https://github.com/andrzejabramov/command_portfolio/blob/main/sertificats/OUR_SERTIFICATS.md)
