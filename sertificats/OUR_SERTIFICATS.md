@@ -44,6 +44,10 @@
 
 ![Сертификат Нетология ИИ](./certificat_AI.png)
 
+![Сертификат Нетология ИИ](./certificate_netology.jpg)
+
+![Сертификат Нетология тестировщик](./certificate_test.jpg)
+
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
 ![Ed_diplom](./Ed_diplom.jpg)
