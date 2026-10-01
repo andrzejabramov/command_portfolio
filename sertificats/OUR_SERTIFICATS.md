@@ -40,13 +40,13 @@
 
 ![Удостоверение курс по продажам](./document_seller_cource.jpg)
 
-![title1](img/ksiu_doc2.jpg)
+![title1](./ksiu_doc2.jpg)
 
-![title2](img/ksiu_doc1.jpg)
+![title2](./ksiu_doc1.jpg)
 
-![doc1](img/ksiu_doc3.jpg)
+![doc1](./ksiu_doc3.jpg)
 
-![doc2](img/ksiu_doc4.jpg)
+![doc2](./ksiu_doc4.jpg)
 
 ![Сертификат Нетология GigaChat](./GigaChat.jpg)
 
