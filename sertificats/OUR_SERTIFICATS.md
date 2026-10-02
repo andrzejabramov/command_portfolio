@@ -58,6 +58,16 @@
 
 ![Сертификат Нетология тестировщик](./certificate_test.jpg)
 
+![diplom1](./ksiu_ano_2.jpg)
+
+![diplom2](./ksiu_ano_2.jpg)
+
+![diplom3](./ksiu_ano_3.jpg)
+
+![diplom4](./ksiu_ano_4.jpg)
+
+![diplom5](./ksiu_ano_5.jpg)
+
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
 ![Ed_diplom](./Ed_diplom.jpg)
