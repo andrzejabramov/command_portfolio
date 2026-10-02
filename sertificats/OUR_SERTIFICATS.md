@@ -54,6 +54,8 @@
 
 ![Сертификат Нетология ИИ](./certificate_netology.jpg)
 
+![Сертификат Нетология ИИ](./ksiu_certificate_life_ai.jpg)
+
 ![Сертификат Нетология тестировщик](./certificate_test.jpg)
 
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
