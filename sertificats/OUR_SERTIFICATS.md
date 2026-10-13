@@ -48,6 +48,8 @@
 
 ![doc2](./ksiu_doc4.jpg)
 
+![Сертификат AI univercity](./ksiu-ai-certificat.jpg)
+
 ![Сертификат Нетология GigaChat](./GigaChat.jpg)
 
 ![Сертификат Нетология ИИ](./certificat_AI.png)
