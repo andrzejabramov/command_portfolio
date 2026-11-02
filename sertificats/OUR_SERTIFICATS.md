@@ -26,7 +26,7 @@
 
 ![Slurm_Postdresql.png](./Slurm_Postdresql.png)
 
-![Selectel_ai.jpg](./cert_selectel_ai_business_Abramov.jpg)
+![Selectel_ai](./selectel_ai_Abramov.jpg)
 
 ![Backend_Python.jpg](./Backend_Python-0.jpg)
 
