@@ -26,6 +26,8 @@
 
 ![Slurm_Postdresql.png](./Slurm_Postdresql.png)
 
+![Selectel_ai.jpg](./cert_selectel_ai_business_Abramov.jpg)
+
 ![Backend_Python.jpg](./Backend_Python-0.jpg)
 
 ![Backend_Python.jpg](./Backend_Python-1.jpg)
@@ -69,6 +71,12 @@
 ![diplom4](./ksiu-ano_4.jpg)
 
 ![diplom5](./ksiu-ano_5.jpg)
+
+![cert_karaoka](./cert_ai_business_karaoka.jpg)
+
+![netology_karaoka](./certificate-test-karaoka.jpg)
+
+![netology_andy](./cert_Semenihin_test.jpg)
 
 ![Удостоверение_АртемСкоробогатый](./Artem_prompt_ingineering.jpeg)
 
